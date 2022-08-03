@@ -27,4 +27,4 @@ for (let i = 0; i < bills.length; i++) {
 
 console.log(`les montants des notes sont ${bills} euros`);
 console.log(`Les pourboires sont respectivement de ${tips} euros`);
-console.log(`Les totaux sont respectivement de ${total} €`); 
+console.log(`Les totaux sont respectivement de ${total} euros`); 
